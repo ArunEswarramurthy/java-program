@@ -3,3 +3,6 @@ for (let index = 0; index < array.length; index++) {
     console.lo
 }
 else
+do e=while (condition) {
+    
+}

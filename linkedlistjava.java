@@ -89,7 +89,8 @@ class LinkedList {
 public class linkedlistjava {
     public static void main(String[] args) {
         LinkedList ll = new LinkedList();
-
+ 
+ 
         ll.insert(10);
         ll.insert(20);
         ll.insert(30);
